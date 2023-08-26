@@ -20,6 +20,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" alt="css" height='50' width='50'>
 </div>
 
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlxLina&theme=dark&border_radius=4.6&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlxLina&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 <!--
 **AlxLina/AlxLina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
