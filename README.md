@@ -18,7 +18,8 @@
   <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' title='javascript' alt='js' height='50' width='50'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' title='html5' alt='html' height='50' width='50'>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" alt="css" height='50' width='50'>
-  <img src ="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" height='50' width="50">  
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" height='50' width="50">
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" height='50' width="50">
 </div>
 
 ### :fire: My Stats :
