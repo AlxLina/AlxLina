@@ -9,7 +9,7 @@
 </h1>
 
 ### :woman_technologist: About Me :
-  I am a frontend-developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia <br>
+  I am a product analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia <br>
   🖌️ In my free time I like to draw & making little projects <br>
   :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/alxlina)
   
@@ -18,8 +18,11 @@
   <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' title='javascript' alt='js' height='50' width='50'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' title='html5' alt='html' height='50' width='50'>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" alt="css" height='50' width='50'>
-  <img src ="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" height='50' width="50">
-  <img src ="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" height='50' width="50">
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" height='50' width="50">
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy" alt="numpy" height='50' width="50">
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas" alt="pandas" height='50' width="50">
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="sql" height='50' width="50">    
+    
 </div>
 
 ### :fire: My Stats :
